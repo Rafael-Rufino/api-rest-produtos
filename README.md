@@ -1,6 +1,5 @@
 
 <h3 align="center">
-    <img alt="Logo" title="#logo" width="300px" src="./.github/logo.svg">
     <br><br>
     <b>Produtos API REST</b>
     <br>
@@ -66,7 +65,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - ### **Pré-requisitos**
 
-  - É **necessário** possuir o **[JDK] java e **[Maven]()** instalado na máquina
+  - É **necessário** possuir o **[JDK]()** java e **[Maven]()** instalado na máquina
   - Também, é **preciso** ter banco de dados **[postgres]
   
 
